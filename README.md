@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Roshani</h1>
-<h3 align="center">A passionate Machine Learner from India</h3>
+<h1 align="center">Hi 🐶, I'm Roshani</h1>
+
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Data Scientist. loving animals and listing old songs is my part-time job☁️ </samp></h4>
+
+<p align="center">
+  <img width="250" src="https://i.pinimg.com/originals/d6/8c/09/d68c09d888fff61aba86b3eede4148ac.gif">
+</p>
+<!-- <h3 align="center">A passionate Machine Learner from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshk01&label=Profile%20views&color=0e75b6&style=flat" alt="roshk01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshk01" alt="roshk01" /></a> </p>
 
-- 🔭 I’m currently working on **Finance Tracker**
+- 🔭 I’m currently working on **Finance Tracker**.
+- I'm attracted to **Paws** <img height="30" src="https://i.pinimg.com/originals/57/13/28/57132856a26238a8de821dbec2eaa642.gif">
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker**.
+- 📖 I am currently reading **Good Vibes, Good Life** by Vex King.
+- 💬 Talk to me about Current affairs, History, Facts, countrie, Coding & startups.
 
-- 👨‍💻 All of my projects are available at [https://roshanik.netlify.app/](https://roshanik.netlify.app/)
+- 👨‍💻 All of my projects are available at my <a href="https://roshanik.netlify.app/"> Portfolio </a>.
 
-- 📝 I regularly write articles on [https://medium.com/@daily_trends](https://medium.com/@daily_trends)
+- 📝 I regularly write articles on <a href= "https://medium.com/@daily_trends">Medium</a>
 
-- 📫 How to reach me **Roshanik04@outlook.com**
-
-- 📄 Know about my experiences [https://roshanik.netlify.app/cv](https://roshanik.netlify.app/cv)
-
-- ⚡ Fun fact **I think I am Funny, but i am Engineer. Am I funny enough?**
+- 📄 Wanna know more 'bout me? Come to my place Habibi 👉 <a href="https://roshanik.netlify.app/cv"> CV</a>.
+  
+- ⚡ Fun fact **I think I am Funny, but i am Engineer. Am I eligible?**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -30,9 +37,36 @@
 <a href="https://medium.com/@daily_trends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daily_trends" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/roshk_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshk_01" height="30" width="40" /></a>
 </p>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C++" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+  <code><img title="Google Cloud" height="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+  <code><img title="Git" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img title="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+  <code><img title="Matlab" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+  <code><img title="Problem Solving" height="35" src="https://freesvg.org/img/cube_of_rubik_1.png"></code>
+  <code><img title="HTML5" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>
+  <code><img title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+  <code><img title="OpenCV" height="35" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+  <code><img title="Pandas" height="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"></code>
+  <code><img title="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img title="Pytorch" height="35" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
+  <code><img title="Scikit Learn" height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+  <code><img title="Seaborn" height="35" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
+  <code><img title="Tensorflow" height="35" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+  <code><img title="Visual Studio Code" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+  <code><img title="Microsoft Visual Studio" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_Logo_%282013-2017%29.svg/1200px-Visual_Studio_Logo_%282013-2017%29.svg.png"></code>
+  <code><img title="GitHub" height="35" src="https://www.svgrepo.com/show/303615/github-icon-1-logo.svg"></code>
+  <code><img title="Jupyter Notebook" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"></code>
+</p>
+<hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshk01&show_icons=true&locale=en&layout=compact" alt="roshk01" /></p>
 
