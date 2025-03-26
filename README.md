@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🐶, I'm Roshani</h1>
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Data Scientist. loving animals and listing old songs is my part-time job☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Data Scientist. Loving animals and listening old songs is my part-time job☁️ </samp></h4>
 
 <p align="center">
   <img width="250" src="https://i.pinimg.com/originals/d6/8c/09/d68c09d888fff61aba86b3eede4148ac.gif">
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Docker**.
 - 📖 I am currently reading **Good Vibes, Good Life** by Vex King.
-- 💬 Talk to me about Current affairs, History, Facts, countrie, Coding & startups.
+- 💬 Talk to me about Current affairs, History, Facts, countries, Coding & startups.
 
 - 👨‍💻 All of my projects are available at my <a href="https://roshanik.netlify.app/"> Portfolio </a>.
 
@@ -24,9 +24,9 @@
 
 - 📄 Wanna know more 'bout me? Come to my place Habibi 👉 <a href="https://roshanik.netlify.app/cv"> CV</a>.
   
-- ⚡ Fun fact **I think I am Funny, but i am Engineer. Am I eligible?**
+- ⚡ Fun fact **I think I am Funny, but I am an Engineer. Am I eligible?**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
