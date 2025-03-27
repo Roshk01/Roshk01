@@ -10,6 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshk01&label=Profile%20views&color=0e75b6&style=flat" alt="roshk01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshk01" alt="roshk01" /></a> </p>
+<img src="https://i.pinimg.com/originals/7b/7c/f9/7b7cf921ce173141157bc30a2b03569e.gif" alt="side Gif" align="right" width="200" height="auto"/> 
 
 - 🔭 I’m currently working on **Finance Tracker**.
 - I'm attracted to **Paws** <img height="30" src="https://i.pinimg.com/originals/57/13/28/57132856a26238a8de821dbec2eaa642.gif">
@@ -19,6 +20,7 @@
 - 💬 Talk to me about Current affairs, History, Facts, countries, Coding & startups.
 
 - 👨‍💻 All of my projects are available at my <a href="https://roshanik.netlify.app/"> Portfolio </a>.
+<img src="https://i.pinimg.com/originals/fb/54/84/fb54840e84aef6e2dcda3609caa8478f.gif" alt="side Gif" align="right" width="200" height="auto"/> 
 
 - 📝 I regularly write articles on <a href= "https://medium.com/@daily_trends">Medium</a>
 
@@ -67,7 +69,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </p>
-
+<img src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif" alt="side Gif" align="right" width="200" height="auto"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshk01&show_icons=true&locale=en&layout=compact" alt="roshk01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshk01&show_icons=true&locale=en" alt="roshk01" /></p>
