@@ -70,6 +70,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </p>
 <img src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif" alt="side Gif" align="right" width="200" height="auto"/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshk01&show_icons=true&locale=en&layout=compact" alt="roshk01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshk01&show_icons=true&locale=en&layout=compact" alt="roshk01" width= "30%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshk01&show_icons=true&locale=en" alt="roshk01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshk01&show_icons=true&locale=en" alt="roshk01" width="40%" /></p>
