@@ -30,6 +30,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Variables: A Complete Guide](https://medium.com/@Roshlibrary/random-variables-a-complete-guide-b2d7dabe45b1)
+- [Axiomatic Probability: The Secret Sauce of Predictive Analytics](https://medium.com/@Roshlibrary/axiomatic-probability-the-secret-sauce-of-predictive-analytics-864a2f2e691e)
+- [Understanding Probability Events: The Foundation of Data Exploration](https://medium.com/@Roshlibrary/understanding-probability-events-the-foundation-of-data-exploration-07f25787bb02)
+- [How Combinations Reveal Hidden Patterns in Data Science ?](https://medium.com/@Roshlibrary/how-combinations-reveal-hidden-patterns-in-data-science-75c358d76423)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -38,6 +42,7 @@
 <a href="https://kaggle.com/roshk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="roshk01" height="30" width="40" /></a>
 <a href="https://medium.com/@daily_trends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daily_trends" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/roshk_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshk_01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/roz_liferizz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="roshk_01" height="35" width="40" /></a>
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
