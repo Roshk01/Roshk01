@@ -42,7 +42,7 @@
 <a href="https://kaggle.com/roshk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="roshk01" height="30" width="40" /></a>
 <a href="https://medium.com/@daily_trends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daily_trends" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/roshk_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshk_01" height="30" width="40" /></a>
-<a href="https://www.instagram.com/roz_liferizz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="roshk_01" height="35" width="40" /></a>
+<!-- <a href="https://www.instagram.com/roz_liferizz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="roshk_01" height="35" width="40" /></a> -->
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
