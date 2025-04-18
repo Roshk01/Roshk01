@@ -65,7 +65,9 @@
   <code><img title="Seaborn" height="35" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
   <code><img title="Tensorflow" height="35" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
   <code><img title="Visual Studio Code" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-  <code><img title="Microsoft Visual Studio" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_Logo_%282013-2017%29.svg/1200px-Visual_Studio_Logo_%282013-2017%29.svg.png"></code>
+  <code><img title="Microsoft Visual Studio" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_Logo_%282013-2017%29.svg/1200px-Visual_Studio_Logo_%282013-2017%29.svg.png">
+  <code><img title="Docker" height="35" src="https://github.com/user-attachments/assets/05ffa550-7950-416e-9fa3-3fe5f52695e4">
+</code>
   <code><img title="GitHub" height="35" src="https://www.svgrepo.com/show/303615/github-icon-1-logo.svg"></code>
   <code><img title="Jupyter Notebook" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"></code>
 </p>
