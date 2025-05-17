@@ -15,8 +15,8 @@
 - 🔭 I’m currently working on **Finance Tracker**.
 - I'm attracted to **Paws** <img height="30" src="https://i.pinimg.com/originals/57/13/28/57132856a26238a8de821dbec2eaa642.gif">
 
-- 🌱 I’m currently learning **Docker**.
-- 📖 I am currently reading **Good Vibes, Good Life** by Vex King.
+- 🌱 I’m currently learning **Fast API**.
+- 📖 I am currently reading **The Palace Of Illusion** by Chitra Banerjee Divakaruni.
 - 💬 Talk to me about Current affairs, History, Facts, countries, Coding & startups.
 
 - 👨‍💻 All of my projects are available at my <a href="https://roshanik.netlify.app/"> Portfolio </a>.
